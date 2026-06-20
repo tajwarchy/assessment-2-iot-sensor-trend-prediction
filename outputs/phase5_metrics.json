@@ -1,0 +1,10 @@
+{
+  "mote_id": "31",
+  "test_rows": 6631,
+  "model_rmse": 1.1269394017261776,
+  "model_mae": 0.5623423808282026,
+  "baseline_rmse": 0.729504211103206,
+  "baseline_mae": 0.4813006688157612,
+  "rmse_improvement_pct": -54.480177711646526,
+  "mae_improvement_pct": -16.83806345248684
+}
